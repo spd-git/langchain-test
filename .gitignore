@@ -1,0 +1,6 @@
+.env
+.idx/
+.vscode/
+.venv/
+
+*.pyc

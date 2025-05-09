@@ -1,0 +1,16 @@
+# Dev environment
+autopep8==2.3.2
+
+# App
+langchain==0.3.25
+langchain-core==0.3.59
+langchain-community==0.3.23
+
+langchain-google-genai==2.1.4
+langchain-openai==0.2.14
+
+crewai==0.119.0
+crewai-tools==0.44.0
+
+pillow==11.2.1
+
